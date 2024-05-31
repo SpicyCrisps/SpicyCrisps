@@ -1,4 +1,7 @@
 ## Hi there 👋
+  You've reached my semi-professional GitHub page! I'm around the web with a different screen name, but I wanted a new dedicated one for my professional pursuits. Maybe one day I'll formally merge them, because I do have cool projects on my private one
+  This page hosts the exercises and projects I'e done for The Odin Project, as well as some independent projects.
+  You may even see a small game or two sneak their way onto this page 😃
 
 <!--
 **SpicyCrisps/SpicyCrisps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
