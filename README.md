@@ -5,6 +5,7 @@
  
   ## This page hosts professional exercises and portfolio pieces
   - The Odin Project exercises & projects
+  - FreeCodeCamp Projects
   - Portfolio Website
   - You _may_ even see a small game or two sneak their way onto this page 😃
 
